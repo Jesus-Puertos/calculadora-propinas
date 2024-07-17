@@ -15,7 +15,7 @@
 
 Este proyecto fue realizado siguiendo el curso React y TypeScript - La Guía Completa Creando +10 Proyectos de Juan de La Torre. En este proyecto aprendi la diferencia en useMemo y useCallBack, tambien cree mi propio custom Hook y una función que me ayudo a formatear cantidadesa pesos mexicanos, tambien a mejorar el performance cuando no se muestren ciertos componentes.
 
-El proyecto esta disponible en: [Ver proyecto](https://guitarla-javascript.netlify.app/) 
+El proyecto esta disponible en: [Ver proyecto](https://calculadora-propinas-jp.netlify.app/) 
 
 [Reportar error](https://github.com/Jesus-Puertos/calculadora-propinas/issues) · [Sugerir algo](https://github.com/Jesus-Puertos/calculadora-propinas/issues)
 
